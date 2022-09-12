@@ -1,0 +1,28 @@
+/*
+template Name: E-Buy
+author: E-buy
+version: 1.0.0
+font end devloper:
+table of content
+------------------
+1.top header
+2.header
+3.banner
+*/
+
+ /*common css start*/
+h1,h2,h3,h4,h5,h6,
+p,
+ul,ol,
+span,
+small{
+    margin: 0;
+    padding: 0;
+}
+ol,ul{
+    list-style-type: none;
+}
+a,a:hover{
+    text-decoration: none;
+}
+/*common css end */
